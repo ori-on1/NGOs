@@ -1,7 +1,7 @@
 {
 "items": [
 {
-"name": "Name of NGO",
+"name": "Name of NGO",<br>
 "rating": "Rating of NGO",
 "url": "Address of Website if Available",
 "email": "Email Adderess of NGO you added",
