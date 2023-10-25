@@ -45,17 +45,6 @@
         "description": "Details of Maiti Nepal"
       },
       {
-        "name of organization": "Prayas Nepal",
-        "sector": "Children",
-        "year of establishment": "2003",
-        "founder/president": "N/A",
-        "headquarter district": "Kathmandu",
-        "international recognition": "N/A",
-        "focus area": "Children, women, and elderly people",
-        "url": "http://prayasnepal.org",
-        "description": "Details of Prayas Nepal"
-      },
-      {
         "name of organization": "Shakti Samuha",
         "sector": "Women",
         "year of establishment": "1996",
@@ -65,6 +54,17 @@
         "focus area": "Human Trafficking",
         "url": "http://shaktisamuha.org.np/",
         "description": "Details of Shakti Samuha"
-      }
+      },
+      {
+        "name of organization": "SOS Children's Villages",
+        "sector": "Children",
+        "year of establishment": "1973",
+        "founder/president": "Hermann Gmeiner",
+        "headquarter district": "Sanothimi, Kathmandu",
+        "international recognition": "Conrad N. Hilton Humanitarian Prize",
+        "focus area": "Children, Community Welfare and Disaster Relief",
+        "url": "www.sos-childrensvillages.org",
+        "description": "Details of SOS Children's Villages"
+      },
   ]
 }
