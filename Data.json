@@ -1,27 +1,27 @@
 {
   "items": [
     {
-        "name of organization": "Aama Samuha",
-        "sector": "Women",
-        "year of establishment": "1989",
-        "founder/president": "Gurung people",
-        "headquarter district": "Dolakha",
-        "international recognition": "N/A",
-        "focus area": "Spread awareness about Women's Rights, Organize relief operations for oppressed women",
-        "url": "N/A",
-        "description": "Details of Aama Samuha"
-      },
-      {
-        "name of organization": "Aamako Ghar",
-        "sector": "Children",
-        "year of establishment": "1999",
-        "founder/president": "Dil Shova Shrestha",
-        "headquarter district": "Kathmandu",
-        "international recognition": "N/A",
-        "focus area": "Children, women and elderly people",
-        "url": "N/A",
-        "description": "Details of Aamako Ghar"
-      },
+      "name of organization": "Aama Samuha",
+      "sector": "Women",
+      "year of establishment": "1989",
+      "founder/president": "Gurung people",
+      "headquarter district": "Dolakha",
+      "international recognition": "N/A",
+      "focus area": "Spread awareness about Women's Rights, Organize relief operations for oppressed women",
+      "url": "N/A",
+      "description": "Details of Aama Samuha"
+    },
+    {
+      "name of organization": "Aamako Ghar",
+      "sector": "Children",
+      "year of establishment": "1999",
+      "founder/president": "Dil Shova Shrestha",
+      "headquarter district": "Kathmandu",
+      "international recognition": "N/A",
+      "focus area": "Children, women and elderly people",
+      "url": "N/A",
+      "description": "Details of Aamako Ghar"
+    },
     {
       "name of organization": "ABC Nepal",
       "sector": "Women",
@@ -34,37 +34,48 @@
       "description": "Details of ABC Nepal"
     },
     {
-        "name of organization": "Maiti Nepal",
-        "sector": "Women",
-        "year of establishment": "April 1993",
-        "founder/president": "Anuradha Koirala",
-        "headquarter district": "Kathmandu",
-        "international recognition": "CNN heroes",
-        "focus area": "Human Trafficking",
-        "url": "https://maitinepal.org/",
-        "description": "Details of Maiti Nepal"
-      },
-      {
-        "name of organization": "Shakti Samuha",
-        "sector": "Women",
-        "year of establishment": "1996",
-        "founder/president": "Charimaya Tamang",
-        "headquarter district": "Kathmandu",
-        "international recognition": "Ramon Magsaysay Award 2013",
-        "focus area": "Human Trafficking",
-        "url": "http://shaktisamuha.org.np/",
-        "description": "Details of Shakti Samuha"
-      },
-      {
-        "name of organization": "SOS Children's Villages",
-        "sector": "Children",
-        "year of establishment": "1973",
-        "founder/president": "Hermann Gmeiner",
-        "headquarter district": "Sanothimi, Kathmandu",
-        "international recognition": "Conrad N. Hilton Humanitarian Prize",
-        "focus area": "Children, Community Welfare and Disaster Relief",
-        "url": "www.sos-childrensvillages.org",
-        "description": "Details of SOS Children's Villages"
-      },
+      "name of organization": "Maiti Nepal",
+      "sector": "Women",
+      "year of establishment": "April 1993",
+      "founder/president": "Anuradha Koirala",
+      "headquarter district": "Kathmandu",
+      "international recognition": "CNN heroes",
+      "focus area": "Human Trafficking",
+      "url": "https://maitinepal.org/",
+      "description": "Details of Maiti Nepal"
+    },
+    {
+      "name of organization": "Prayas Nepal",
+      "sector": "Children",
+      "year of establishment": "2003",
+      "founder/president": "N/A",
+      "headquarter district": "Kathmandu",
+      "international recognition": "N/A",
+      "focus area": "Children, women, and elderly people",
+      "url": "http://prayasnepal.org",
+      "description": "Details of Prayas Nepal"
+    },
+    {
+      "name of organization": "Shakti Samuha",
+      "sector": "Women",
+      "year of establishment": "1996",
+      "founder/president": "Charimaya Tamang",
+      "headquarter district": "Kathmandu",
+      "international recognition": "Ramon Magsaysay Award 2013",
+      "focus area": "Human Trafficking",
+      "url": "http://shaktisamuha.org.np/",
+      "description": "Details of Shakti Samuha"
+    },
+    {
+      "name of organization": "SOS Children's Villages",
+      "sector": "Children",
+      "year of establishment": "1973",
+      "founder/president": "Hermann Gmeiner",
+      "headquarter district": "Sanothimi, Kathmandu",
+      "international recognition": "Conrad N. Hilton Humanitarian Prize",
+      "focus area": "Children, Community Welfare and Disaster Relief",
+      "url": "www.sos-childrensvillages.org",
+      "description": "Details of SOS Children's Villages"
+    }
   ]
 }
