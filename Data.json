@@ -1,15 +1,26 @@
 {
-"items": [
-{
-"name of organization": "ABC Nepal",
-"sector": "Women",
-"year of establishment": "1987",
-"founder/president": "Durga Ghimire",
-"headquarter district": "Kathmandu",
-"international recognition": "Help for Self Help Award 2012",
-"focus area": "Human Trafficking, Violence against women, Women Rights",
-"url": "http://www.abcnepal.org.np",
-"description": "Details of ABC Nepal"
-}
-]
+  "items": [
+    {
+        "name of organization": "Aama Samuha",
+        "sector": "Women",
+        "year of establishment": "1989",
+        "founder/president": "Gurung people",
+        "headquarter district": "Dolakha",
+        "international recognition": "N/A",
+        "focus area": "Spread awareness about Women's Rights, Organize relief operations for oppressed women",
+        "url": "N/A",
+        "description": "Details of Aama Samuha"
+      },
+    {
+      "name of organization": "ABC Nepal",
+      "sector": "Women",
+      "year of establishment": "1987",
+      "founder/president": "Durga Ghimire",
+      "headquarter district": "Kathmandu",
+      "international recognition": "Help for Self Help Award 2012",
+      "focus area": "Human Trafficking, Violence against women, Women Rights",
+      "url": "http://www.abcnepal.org.np",
+      "description": "Details of ABC Nepal"
+    }
+  ]
 }
