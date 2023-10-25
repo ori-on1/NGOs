@@ -7,6 +7,7 @@
 "founder/president": "",<br>
 "headquarter district": "",<br>
 "international recognition": "",<br>
+"focus area": "",<br>
 "url": "",<br>
 "description": ""<br>
 }<br>
