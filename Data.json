@@ -50,7 +50,7 @@
       "rating": "3.9",
       "year of establishment": "N/A",
       "founder/president": "N/A",
-      "headquarter district": "Siddharthanagar",
+      "address": "Bank Rd, Siddharthanagar",
       "international recognition": "N/A",
       "focus area": "N/A",
       "contact": "071-527205",
@@ -88,6 +88,18 @@
       "focus area": "Children, Community Welfare and Disaster Relief",
       "url": "www.sos-childrensvillages.org",
       "description": "Details of SOS Children's Villages"
+    },
+    {
+      "name of organization": "UNICEF Bhairahawa Field Office",
+      "sector": "N/A",
+      "rating": "4.3",
+      "year of establishment": "N/A",
+      "founder/president": "N/A",
+      "address": "Janak Path, Siddharthanagar ",
+      "international recognition": "N/A",
+      "focus area": "N/A",
+      "contact": "01-4217602",
+      "description": "Details of UNICEF Bhairahawa Field Office"
     }
   ]
 }
